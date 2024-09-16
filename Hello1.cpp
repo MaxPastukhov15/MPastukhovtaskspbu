@@ -9,10 +9,11 @@ int main(){
     cout << endl;
     
     string s;
-    cin >> s;
+    cin >> "Write name:" >>  s;
     while (s!="e"){
     cout << "Hello, " << s << "!" << endl;
-    cin >> s;
+    cin >> "Write name" >> s;
     }
     return 0;
 }
+//I did it
