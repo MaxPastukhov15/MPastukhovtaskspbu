@@ -7,4 +7,4 @@ st131119@student.spbu.ru
 Compilate
  
 Launch
-# MPastukhovtaskspbu
+
