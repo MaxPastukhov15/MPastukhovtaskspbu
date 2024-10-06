@@ -1,10 +1,13 @@
-Task 1
-
-Maksim Germanovich Pastukhov, 24.B82
-
-st131119@student.spbu.ru
-
-Compilate
- 
-Launch
-# MPastukhovtaskspbu
+# Assignment 1
+## Author
+Pastukhov Maksim Germanovich , группа 24.Б82-мм
+## Contacts
+st131119@stdudent.spbu.ru
+## Description
+Home assingment 1 - extended "Hello world". First says "Hello,
+World". After this reads a string in a cycle and says "Hell,
+<string>"
+## Build
+make
+## Run
+./hello
